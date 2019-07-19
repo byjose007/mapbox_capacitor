@@ -12,7 +12,10 @@ export const environment = {
     storageBucket: "mytrip-e0aa6.appspot.com",
     messagingSenderId: "626563754428",
     appId: "1:626563754428:web:cf19b4bef6fe74d2"
-  }
+  },
+  mapbox: {
+    accessToken: 'pk.eyJ1IjoiYnlqb3NlMDA3IiwiYSI6ImNqdzZ3NXFqbDBkZ3o0YXM1bzBlNzlsZDUifQ.H4Y5vm4i3ong8SaW1XUWNw'
+ }
 };
 
 /*
